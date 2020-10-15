@@ -9,6 +9,7 @@ print("1 Queen's Road Central, Hong Kong")
 print("GPO Box 64 Hong Kong")
 print("Hong Kong")
 
+
 #2 Area and perimeter of a rectangle
 print("\nQ2.Area and perimeter of a rectangle")
 width = 4.5
